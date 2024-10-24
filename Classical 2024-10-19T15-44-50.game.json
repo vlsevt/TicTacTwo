@@ -1,1 +1,0 @@
-{"GameBoard":[[2,2,0,0,0],[0,1,0,0,0],[0,0,1,0,0],[0,0,0,0,0],[0,0,0,0,0]],"NextMoveBy":2,"GameConfiguration":{"Name":"Classical","BoardSize":5,"GridSize":3,"GridStartX":1,"GridStartY":1,"WinCondition":3,"NumberOfPieces":3}}
