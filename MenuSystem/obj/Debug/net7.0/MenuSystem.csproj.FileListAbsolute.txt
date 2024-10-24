@@ -1,0 +1,8 @@
+C:\Users\user\RiderProjects\icd0008-24f\tic-tac-two\MenuSystem\obj\Debug\net7.0\MenuSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\icd0008-24f\tic-tac-two\MenuSystem\obj\Debug\net7.0\MenuSystem.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\icd0008-24f\tic-tac-two\MenuSystem\obj\Debug\net7.0\MenuSystem.AssemblyInfo.cs
+C:\Users\user\RiderProjects\icd0008-24f\tic-tac-two\MenuSystem\obj\Debug\net7.0\MenuSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\icd0008-24f\MenuSystem\obj\Debug\net7.0\MenuSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\icd0008-24f\MenuSystem\obj\Debug\net7.0\MenuSystem.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\icd0008-24f\MenuSystem\obj\Debug\net7.0\MenuSystem.AssemblyInfo.cs
+C:\Users\user\RiderProjects\icd0008-24f\MenuSystem\obj\Debug\net7.0\MenuSystem.csproj.CoreCompileInputs.cache
